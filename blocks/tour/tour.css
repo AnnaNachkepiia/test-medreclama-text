@@ -20,6 +20,7 @@
   list-style-type: none;
   padding: 0;
   margin: 0 auto 30px;
+  max-width: 80%;
 }
 .tour__schedule-box {
   width: 300px;
